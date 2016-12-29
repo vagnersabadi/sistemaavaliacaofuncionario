@@ -1,2 +1,1 @@
-# sistemaavaliacaofuncionario
-Sistema para avaliar funcionários 
+# Sistema para avaliaçõ de funcionários 
